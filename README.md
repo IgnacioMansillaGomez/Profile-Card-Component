@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://ignaciomansillagomez.github.io/huddle-landing-page)
+- Solution URL: (https://ignaciomansillagomez.github.io/Profile-Card-Component/)
 
 ## My process
 
@@ -43,4 +43,4 @@ Users should be able to:
 ## Author
 
 - Ignacio Mansilla Gomez
-- Linkedin - [](https://www.linkedin.com/in/ignacio-mansilla-gomez-3502551a3/)
+- Linkedin - ![](https://www.linkedin.com/in/ignacio-mansilla-gomez-3502551a3/)
